@@ -1,0 +1,12 @@
+ h1 {
+    color: darkblue;
+    text-align: center;
+}
+ p {
+color: hwb(292 2% 66%); font-size: 20px;
+font-family: Arial, Verdana, sans-serif;
+text-align: center;
+}
+body {
+  background-color: Lavender;
+}
